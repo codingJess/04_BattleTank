@@ -15,3 +15,7 @@ Simple tank battle in open world. Head to head tank combat. Terrain used for tac
 * Static Mesh: simple tank comprising tracks, body, turret, and barrel
 * Textures: later on we'll want to add visual flare
 * Music: background music to create tension
+
+### Lectures
+01 - Intro, Notes, & Assets
+02 - Game Design Document
