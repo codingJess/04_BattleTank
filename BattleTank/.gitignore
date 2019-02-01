@@ -3,6 +3,9 @@
 
 # Visual Studio 2015 database file
 *.VC.db
+*.VC.db-shm
+*.VC.db-wal
+*.umap
 
 # Compiled Object files
 *.slo
@@ -47,6 +50,7 @@
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
+*.uasset
 
 # Binary Files
 Binaries/*
